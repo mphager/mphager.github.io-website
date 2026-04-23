@@ -1,6 +1,4 @@
----
-title: COMP110 Data Analysis Project
----
+
 
 # COMP110 Data Analysis Project
 
