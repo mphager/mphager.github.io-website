@@ -20,16 +20,16 @@
 
 title: COMP 110 Data Analysis Project
 email: mphager@unc.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Analysis of COMP110 survey data to evaluate course improvements
-baseurl: "/website" # the subpath of your site, e.g. /blog
-url: "mphager.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/mphager.github.io-website"
+url: "https://mphager.github.io"
+github_username: mphager
 
-# Build settings
-# Build settings
 remote_theme: "jekyll/minima@1e8a445"
+
+plugins:
+  - jekyll-remote-theme
 
 plugins:
   - jekyll-remote-theme
