@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: COMP 110 Data Analysis Project
+title: Max Hager
 email: mphager@unc.edu
 description: >-
   Analysis of COMP110 survey data to evaluate course improvements
