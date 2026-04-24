@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: COMP110 Data Analysis Project
+---
 
 ## Overview
 In this project, I analyzed COMP110 survey data to explore whether quizzes and other practice-based learning tools are associated with stronger student understanding.
