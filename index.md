@@ -11,7 +11,7 @@ I focused on the idea that the course should incorporate more practice problems 
 
 ---
 
-## Visualization 1: Distribution of Quiz Effectiveness Ratings
+### Visualization 1: Distribution of Quiz Effectiveness Ratings
 
 This bar chart shows how students rated the effectiveness of quizzes on a scale from 1 to 7. Most responses fall between 5 and 7, which suggests that students generally view quizzes as helpful.
 
@@ -21,7 +21,7 @@ While this doesn’t directly prove quizzes improve understanding, it does show 
 
 ---
 
-## Visualization 2: High Quiz Effectiveness vs Understanding
+### Visualization 2: High Quiz Effectiveness vs Understanding
 
 This boxplot focuses only on students who rated quiz effectiveness highly (5 or above). It shows how their understanding scores are distributed.
 
@@ -31,7 +31,7 @@ Even among students who think quizzes are effective, understanding still varies 
 
 ---
 
-## Visualization 3: Quiz Effectiveness vs Programming Assignment Effectiveness
+### Visualization 3: Quiz Effectiveness vs Programming Assignment Effectiveness
 
 This scatterplot compares how students rated quizzes versus programming assignments.
 
